@@ -1,0 +1,7 @@
+path: /Users/lordbobby/Downloads/StopSign  # dataset root dir
+train: images/Train  # train images (relative to 'path')
+val: images/Validate  # val images (relative to 'path')
+
+# Classes
+names:
+  0: Stop Sign
